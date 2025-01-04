@@ -24,6 +24,7 @@
     "astro": "^5.1"
   },
   "devDependencies": {
+    "@astrojs/vercel": "^8.0.1",
     "@biomejs/biome": "^1.7.0"
   }
 }
